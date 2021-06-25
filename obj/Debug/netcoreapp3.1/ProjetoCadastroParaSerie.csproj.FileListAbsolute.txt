@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\bin\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.exe
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\bin\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.deps.json
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\bin\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.runtimeconfig.json
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\bin\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\bin\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.dll
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\bin\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.pdb
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\obj\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\obj\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\obj\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\obj\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\obj\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.dll
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\obj\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.pdb
+C:\Users\Lucas\Desktop\ProjetoCadastroParaSerie\obj\Debug\netcoreapp3.1\ProjetoCadastroParaSerie.genruntimeconfig.cache
